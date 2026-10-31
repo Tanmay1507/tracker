@@ -105,3 +105,4 @@ export default {
   loginUser,
   getCurrentUser
 };
+

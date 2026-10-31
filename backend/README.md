@@ -84,3 +84,4 @@ backend/
 | `GET` | `/api/commits/stats` | Get user commit activity statistics | Private (Bearer) |
 | `GET` | `/api/commits/repo/:repoId` | Get commits for a tracked repository | Private (Bearer) |
 | `POST` | `/api/webhooks/github` | Receive GitHub push/ping webhooks | Public (GitHub Secret) |
+

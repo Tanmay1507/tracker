@@ -65,3 +65,4 @@ repositorySchema.index({ user: 1, fullName: 1 }, { unique: true });
 
 const Repository = mongoose.model('Repository', repositorySchema);
 export default Repository;
+

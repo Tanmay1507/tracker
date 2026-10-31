@@ -4,3 +4,4 @@ import Commit from './Commit.js';
 
 export { User, Repository, Commit };
 export default { User, Repository, Commit };
+

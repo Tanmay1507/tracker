@@ -50,3 +50,4 @@ commitSchema.index({ repository: 1, commitHash: 1 }, { unique: true });
 
 const Commit = mongoose.model('Commit', commitSchema);
 export default Commit;
+
